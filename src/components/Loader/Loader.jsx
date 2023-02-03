@@ -4,7 +4,7 @@ import './Loader.css';
 
 const Loader = () => {
   return (
-    <div className="Spinner">
+    <div className="Loader">
       <Vortex
   visible={true}
   height="80"
